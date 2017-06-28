@@ -10,4 +10,6 @@ As name suggests, an introduction to Apple Mobile Device Management and the Devi
 
 Attempting to demystify what these strange ports are on recent MacBooks.
 
-### 2017-06-29 'Hi, High Sierra: what we know so far (and isn't restricted by the NDA)'
+### 2017-06-29 'Hi, High Sierra! What we know so far (and isn't restricted by the NDA)'
+
+An overview of the refinements to macOS coming in 10.13 High Sierra. 
