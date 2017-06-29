@@ -13,3 +13,4 @@ Attempting to demystify what these strange ports are on recent MacBooks. (Lost t
 ### ADAM-20170629 'Hi, High Sierra! What we know so far (and isn't restricted by the NDA)'
 
 An overview of the refinements to macOS coming in 10.13 High Sierra. 
+Also on video here, skip to 34:00 - https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=90979a20-8f69-42e3-a27c-1525b9fabb2e
