@@ -14,3 +14,7 @@ Attempting to demystify what these strange ports are on recent MacBooks. (Lost t
 
 An overview of the refinements to macOS coming in 10.13 High Sierra. 
 Also on video here, skip to 34:00 - https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=90979a20-8f69-42e3-a27c-1525b9fabb2e
+
+### ADAM-20180122 'Meltdown and Spectre: Staying safe'
+
+An overview of the Meltdown and Spectre security issues and what can be done to secure Apple devices.
