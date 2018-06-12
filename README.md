@@ -18,3 +18,7 @@ Also on video here, skip to 34:00 - https://ox.cloud.panopto.eu/Panopto/Pages/Vi
 ### ADAM-20180122 'Meltdown and Spectre: Staying safe'
 
 An overview of the Meltdown and Spectre security issues and what can be done to secure Apple devices.
+
+### ADAM-20180612 'macOS 10.13 Spring Update: UAMDM, UAKEL and Secure Token'
+
+What we've learned on the road to supporting macOS 10.13 on Orchard Macs.
