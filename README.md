@@ -1,5 +1,7 @@
 # talks
 
+Note: download the PDFs for clickable links.
+
 ## Oxford University Apple Device Administrators' Meeting (ADAM) Talks
 
 ### ADAM-20160516 'Apple MDM and DEP'
