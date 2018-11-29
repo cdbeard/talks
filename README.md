@@ -24,3 +24,7 @@ An overview of the Meltdown and Spectre security issues and what can be done to 
 ### ADAM-20180612 'macOS 10.13 Spring Update: UAMDM, UAKEL and Secure Token'
 
 What we've learned on the road to supporting macOS 10.13 on Orchard Macs.
+
+### ADAM-20181127 'Test box special: macOS Testing in a VM and other options'
+
+Discussion of different test box options and VM software, plus pratical walkthrough of creating a VM in VMware Fusion then using AutoDMG and vfuse. 
